@@ -1,6 +1,6 @@
 import json
 from datetime import datetime
-from prettytable import PrettyTable
+from prettytable import PrettyTable 
 
 
 def display(ID):
